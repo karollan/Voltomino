@@ -5,6 +5,13 @@ A basic Tetris clone that runs in the Windows terminal, written in C++ as a lear
 The game is rendered with ANSI escape codes (alternate screen buffer and box-drawing
 characters for the border) and reads keyboard input through the Win32 Console API, no external libraries or game frameworks.
 
+## Example game scene
+
+![Voltomino running in Windows Terminal](img/game.png)
+
+*A game in progress: the playfield with placed pieces, the current piece, the
+next-piece preview, and the score.*
+
 ## Features
 
 - Falling tetromino pieces with gravity
