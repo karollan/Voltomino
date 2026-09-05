@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Volt/Volt.vcxproj" Id="149d80dd-cb45-4911-b11d-514687bdd629" />
+</Solution>
